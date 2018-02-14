@@ -190,6 +190,7 @@
 		font-size: 1.5rem;
 		line-height: 1.4;
 		letter-spacing: 0.5rem;
+		font-family: PreloSlab_black;
 	}
 
 	h3 {
@@ -1490,7 +1491,6 @@
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
 			opacity: 0;
-			font-family: PreloSlab_black !important;
 		}
 
 			#main article.active {
@@ -1501,9 +1501,6 @@
 				opacity: 1;
 			}
 
-			#main article.active h2 {
-				font-family: PreloSlab_black !important;
-			}
 
 			#main article .close {
 				display: block;
