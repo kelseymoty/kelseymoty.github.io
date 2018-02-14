@@ -1501,7 +1501,7 @@
 			}
 
 			#main article.active h2 {
-				font-family: PreloSlab_black; 
+				font-family: PreloSlab_black !important;
 			}
 
 			#main article .close {
